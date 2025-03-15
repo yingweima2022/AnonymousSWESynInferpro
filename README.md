@@ -80,6 +80,6 @@ You can train SWE-Reasoner on your own data.
 
 We would like to thank the [Qwen](https://github.com/QwenLM/Qwen2.5) team for their foundational work, which has been instrumental in the development of SWE-Reasoner.
 
-We would also like to thank the [SWE-bench](https://github.com/princeton-nlp/SWE-bench), [AutoCodeRover](https://github.com/nus-apr/auto-code-rover), [SWESynInfer](https://github.com/LingmaTongyi/Lingma-SWE-GPT) and [Agentless](https://github.com/OpenAutoCoder/Agentless) teams for their foundational work, which played an important role in the development of SWESynInfer+.
+We would also like to thank the [SWE-bench](https://github.com/princeton-nlp/SWE-bench), [AutoCodeRover](https://github.com/nus-apr/auto-code-rover), [SWESynInfer](https://github.com/LingmaTongyi/Lingma-SWE-GPT), [SWE-Gym](https://github.com/SWE-Gym/SWE-Gym), [Nebuis](https://nebius.com/blog/posts/scaling-data-collection-for-training-swe-agents) and [Agentless](https://github.com/OpenAutoCoder/Agentless) teams for their foundational work, which played an important role in the development of SWESynInfer+.
 
 
